@@ -1,2 +1,2 @@
-# ezstreaming
-Ez streaming with camera/screen recording to rtmp server by hls/dash
+# smartstreaming
+This is a sample about screen recording and streaming video

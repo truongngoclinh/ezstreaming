@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestScreenRecording</string>
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+</resources>
